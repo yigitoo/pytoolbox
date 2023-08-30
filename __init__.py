@@ -9,7 +9,7 @@ __all__ = [
     'ml'
 ]
 
-__version__ = "0.0.1"
+__version__ = "v0.0.2"
 __name__ = 'toolbox'
 
 __spec__ = {
