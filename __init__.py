@@ -2,6 +2,7 @@
 from . import economics
 from . import nn
 from . import ml
+from . import mathtools
 
 __all__ = [
     'economics'
@@ -10,7 +11,7 @@ __all__ = [
 ]
 
 __version__ = "v0.0.2"
-__name__ = 'toolbox'
+__name__ = 'pytoolbox'
 
 __spec__ = {
     'Author': 'Yigit GUMUS',
@@ -26,4 +27,4 @@ __spec__ = {
 }
 
 if __name__ == "__main__" and __package__ is None:
-    __package__ = 'toolbox'
+    __package__ = 'pytoolbox'
